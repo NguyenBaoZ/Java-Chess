@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mongo jar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../mongo jar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../mongo jar" recursive="false" />
+  </library>
+</component>
